@@ -1,0 +1,9 @@
+keras==2.13.1
+keras-cv==0.8.2
+numpy==1.24.3
+rich==13.7.0
+transformers==4.38.1
+tensorflow==2.13.0
+tensorflow-datasets==4.9.4
+tqdm==4.66.2
+matplotlib==3.8.3
